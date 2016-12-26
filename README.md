@@ -2,4 +2,4 @@
 Free upscales and retextures of the whole game.  Includes optional
 pollution maps.
 
-![Wiki](../../wiki)
+[Wiki](../../wiki)
