@@ -10,7 +10,7 @@ In spite of my disappointment with the rest of the pack, I was inspired by the u
 
 I've been using&nbsp;<a href="https://github.com/nagadomi/waifu2x">waifu2x</a>&nbsp;and I've gotten some incredible results out of it for certain textures.  &nbsp;Some original textures that are too low-res or have sharp edges, were not upscaled.  Using Gimp, I manually upscaled and smoothed out the edges of pollution maps, low-res banners, and small character maps.
 
-<h3>I hope that you, the player, will feel like you're not even using a texture mod pack, yet have a superior graphical experience compared the original game.</h3>
+<h3>I hope that you, the player, will feel like you're not even using a texture mod pack, yet have a superior graphical experience.</h3>
 
 The optional pollution maps have a prefix character space, simply delete the underscore to use these textures.
 
