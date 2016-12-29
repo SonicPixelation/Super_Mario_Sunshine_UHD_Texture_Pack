@@ -8,7 +8,7 @@ The most popular high-res texture pack on the Dolphin forums right now is <a hre
 
 In spite of my disappointment with the rest of the pack, I was inspired by the upscale of the pink goo texture.  It looked so good that I decided to upscale all the other goo textures and soon I was motivated to create a definitive UHD texture pack for the whole game.
 
-I've been using <a href="https://github.com/nagadomi/waifu2x">waifu2x</a> and I've gotten some incredible results out of it for certain textures.  Some original textures that are too low-res or have sharp edges, were not upscaled with waifu2x.  Using Gimp, I manually upscaled and smoothed out the edges of pollution maps, low-res banners, and small character maps.  I also manually retextured certain textures that I felt were unacceptable for a UHD pack.  The main menu A, B, and C save blocks were retextured.  For the wanted poster, I edited a screenshot from an in-game cutscene that shows the poster at a higher resolution.
+I've been using <a href="https://github.com/nagadomi/waifu2x">waifu2x</a> and I've gotten some incredible results out of it for certain textures.  Some original textures that are too low-res or have sharp edges, were not upscaled with waifu2x.  Using Gimp, I manually upscaled and smoothed out the edges of pollution maps, low-res banners, and small character maps.  I also manually retextured certain textures that I felt were unacceptable for a UHD pack, most notably the main menu A, B, and C save blocks.  For the wanted poster, I edited a screenshot from an in-game cutscene that shows the poster at a higher resolution.
 
 <h3>I hope that you, the player, will feel like you're not even using a texture mod pack, yet have a superior graphical experience.</h3>
 
