@@ -1,6 +1,11 @@
 # Super_Mario_Sunshine_UHD_Texture_Pack
 <h3>TLDR: Free upscales and retextures of the whole game.  Check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings on the 5.0 build of Dolphin to prevent stuttering.</h3>
 
+<h3>854 textures contributed to this pack in total (not including mips)</h3>
+Contribution breakdown:<br>
+qashto = 693<br>
+razius = 161
+
 [Click here to see comparisons!](../../wiki)
 
 The most popular high-res texture pack on the Dolphin forums right now is <a href="https://forums.dolphin-emu.org/Thread-super-mario-sunshine-hires-texture-pack">razius</a>'.  Unfortunately, even after a few new releases, it only contains textures for the HUD, menus, trees, tile flooring (not even walls or roofs) of Delfino Plaza, some shadows, and all the trees.  Only one goo texture is included.  Although he says he's tried to "keep everything as close to the original as possible", most of the pack does not respect the look and feel of the original game.  The SMG style grass and Skyrim-esque tree textures are the worst offenders.  Most of the HUD and menu textures are unbearably sharp and do not respect the simplistic style of the originals.  These textures fail to fit in with the rest of the game and stick out as obvious mods, preventing first time players from enjoying the original aesthetics of the game.
