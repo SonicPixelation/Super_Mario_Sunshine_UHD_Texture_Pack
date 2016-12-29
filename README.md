@@ -14,4 +14,4 @@ I've been using&nbsp;<a href="https://github.com/nagadomi/waifu2x">waifu2x</a>&n
 
 The experimental pollution maps have a underscore prefix to prevent them from being loaded, simply delete the underscore to use these textures.  These textures are very small (a few kilobytes), but for some reason when Dolphin loads these textures it adds a hundred megabytes or more to the total load depending on the map.  Does anyone know why this happens and could help me solve this issue?
 
-Please report any changes you would like to see by using the issues forum on this GitHub project!
+Please report any changes you would like to see by using the issues forum on this GitHub project.  Enjoy!
