@@ -1,6 +1,6 @@
 # Super_Mario_Sunshine_UHD_Texture_Pack
 <h3>TLDR: Free upscales and retextures of the whole game.  Includes some experimental high-res
-pollution maps.</h3>
+pollution maps.  Will upload 4K video footage to Youtube soon.</h3>
 
 [Click here to see comparisons!](../../wiki)
 
