@@ -1,5 +1,5 @@
 # Super_Mario_Sunshine_UHD_Texture_Pack
-<h3>TLDR: Free upscales and retextures of the whole game.  Check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings on the 5.0 build of Dolphin to prevent stuttering.  This pack includes some experimental high-res pollution maps that won't load by default.  Will upload 4K video footage to Youtube soon.</h3>
+<h3>TLDR: Free upscales and retextures of the whole game.  Check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings on the 5.0 build of Dolphin to prevent stuttering.</h3>
 
 [Click here to see comparisons!](../../wiki)
 
@@ -15,6 +15,6 @@ Make sure to check "Prefetch Custom Textures" in the "Advanced" tab of the Graph
 
 The experimental pollution maps have an underscore prefix to prevent them from being loaded, simply delete the underscore to use these textures.  These textures are very small (a few kilobytes), but for some reason when Dolphin loads these textures they add hundreds of megabytes or more to the total load, depending on the map.  Does anyone know why this happens and could help me solve this issue?
 
-Please report any issues you experience on the issues forum of the GitHub page.  Post your own additions/changes you would like to make to this pack as comments on this thread and if they're good I'll add them to the pack.
+Please report any issues you experience on the issues forum of the GitHub page.  Post your own additions/changes you would like to make to this pack as comments on this thread and if they're good I'll add them to the pack.  I will upload 4K video footage to Youtube soon.
 
 Enjoy!
