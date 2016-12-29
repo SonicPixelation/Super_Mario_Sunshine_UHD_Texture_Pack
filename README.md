@@ -15,6 +15,6 @@ Make sure to check "Prefetch Custom Textures" in the "Advanced" tab of the Graph
 
 The experimental pollution maps have an underscore prefix to prevent them from being loaded, simply delete the underscore to use these textures.  These textures are very small (a few kilobytes), but for some reason when Dolphin loads these textures they add hundreds of megabytes or more to the total load, depending on the map.  Does anyone know why this happens and could help me solve this issue?
 
-Please report any issues you experience on the issues forum of the GitHub page.  Post your own additions/changes you would like to make to this pack as comments on this thread and if they're good I'll add them to the pack.  I will upload 4K video footage to Youtube soon.
+Please report any issues you experience on the issues forum of the GitHub page.  Post your own additions/changes you would like to make to this pack as comments on this thread and if they're good I'll add them to the pack.  I will upload UHD video footage to Youtube soon.
 
 Enjoy!
