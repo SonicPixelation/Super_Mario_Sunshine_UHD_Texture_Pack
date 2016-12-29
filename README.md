@@ -3,8 +3,8 @@
 
 <h3>854 textures contributed to this pack in total (not including mips)</h3>
 Contribution breakdown:<br>
-qashto = 693<br>
-razius = 161
+qashto = 673<br>
+razius = 181
 
 [Click here to see comparisons!](../../wiki)
 
