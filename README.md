@@ -12,7 +12,7 @@ I've been using <a href="https://github.com/nagadomi/waifu2x">waifu2x</a> and I'
 
 <h3>I hope that you, the player, will feel like you're not even using a texture mod pack, yet have a superior graphical experience.</h3>
 
-The experimental pollution maps have an underscore prefix to prevent them from being loaded, simply delete the underscore to use these textures.  These textures are very small (a few kilobytes), but for some reason when Dolphin loads these textures it adds a hundred megabytes or more to the total load, depending on the map.  Does anyone know why this happens and could help me solve this issue?
+The experimental pollution maps have an underscore prefix to prevent them from being loaded, simply delete the underscore to use these textures.  These textures are very small (a few kilobytes), but for some reason when Dolphin loads these textures they add hundreds of megabytes or more to the total load, depending on the map.  Does anyone know why this happens and could help me solve this issue?
 
 Please report any issues you experience on the issues forum of the GitHub page.  Post your own additions/changes you would like to make to this pack as comments on this thread and if they're good I'll add them to the pack.
 
