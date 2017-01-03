@@ -1,9 +1,9 @@
 # Super_Mario_Sunshine_UHD_Texture_Pack
 <h3>TLDR: Free upscales and retextures of the whole game.  Check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings on the 5.0 build of Dolphin to prevent stuttering.</h3>
 
-<h3> 850 textures contributed to this pack in total (not including mips)</h3>
+<h3> 829 textures contributed to this pack in total (not including mips)</h3>
 Contribution breakdown:<br>
-qashto = 850
+qashto = 829
 
 [Click here to see comparisons!](../../wiki)
 
