@@ -9,11 +9,10 @@ qashto = 850
 
 Attention content creators, I will give front page credit (^ above) on this GitHub project to anyone that wants to contribute to this pack.  Instead of getting lost in the forums your content will be included with the latest version of this pack as a single download.
 
-¡Update! {
+<h3>¡Update! </h3>
 I've already replaced most of razius' textures that will no longer be included in this pack.  If anyone wants to retexture the map, Mario, and Fludd textures to replace razius' that would make this pack encompass the full game once again and people will not have to download razius' pack and mix and match.  At the moment, if you want the map, Mario, and Fludd textures I encourage you to take the time to add them manually.  In the text file "qashto_recommended_textures.txt", I've written down the names of the textures I recommend and would add from razius' pack.
-}
 
--About the pack-
+<h3>-About the pack-</h3>
 
 The most popular high-res texture pack on the Dolphin forums right now is <a href="https://forums.dolphin-emu.org/Thread-super-mario-sunshine-hires-texture-pack">razius</a>'.  Unfortunately, even after a few new releases, it only contains textures for the HUD, menus, trees, tile flooring (not even walls or roofs) of Delfino Plaza, some shadows, and all the trees.  Only one goo texture is included.  Although he says he's tried to "keep everything as close to the original as possible", most of the pack does not respect the look and feel of the original game.  The SMG style grass and Skyrim-esque tree textures are the worst offenders.  Most of the HUD and menu textures are unbearably sharp and do not respect the simplistic style of the originals.  These textures fail to fit in with the rest of the game and stick out as obvious mods, preventing first time players from enjoying the original cartoony aesthetics of the game.
 
