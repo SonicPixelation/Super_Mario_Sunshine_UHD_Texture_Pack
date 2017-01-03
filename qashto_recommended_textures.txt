@@ -1,0 +1,35 @@
+qashto’s recommended textures from razius’ pack:
+
+https://forums.dolphin-emu.org/Thread-super-mario-sunshine-hires-texture-pack
+
+Gooper Blooper
+tex1_48x48_0b9705743e9729a8_5
+tex1_48x48_7c1f459f17258937_2
+tex1_48x48_77bc02993d4b4471_5
+tex1_48x48_af3242486778857d_5
+tex1_48x48_e69ed05d19aabd7a_5
+
+Mario
+tex1_32x32_0b0210fd95d80504_14
+tex1_32x32_0e200d9e60b68124_14
+tex1_32x32_2d53dcadcd34cd17_14
+tex1_32x32_6c972bb138ad6303_14
+tex1_32x32_7a289b416227dd82_14
+tex1_32x32_29be29c90908f8ba_14
+tex1_32x32_db0772cb840dafa2_14
+tex1_256x256_baf26536f690fba8_14
+
+Fludd
+tex1_128x256_0b7f9f3ad270ac1b_14
+replace tex1_64x128_7746a28cbb395f32_14
+
+Other
+
+Menu Pianta
+tex1_82x104_575fdba3a0f96cd6_5
+tex1_83x102_8e4db6f51d2d8111_5
+tex1_83x102_73f81d1173f84f5f_5
+tex1_83x102_1938181691fd5852_5
+tex1_83x106_42a9b940b954a929_5
+
+All map textures
