@@ -7,10 +7,7 @@ qashto = 818
 
 [Click here to see comparisons!](../../wiki)
 
-Attention content creators, I will give front page credit (^ above) on this GitHub project to anyone that wants to contribute to this pack.  Instead of getting lost in the forums your content will be included with the latest version of this pack as a single download.
-
-<h3>¡Update! </h3>
-I've already replaced most of razius' textures that will no longer be included in this pack.  If anyone wants to retexture the map, Mario, and Fludd textures to replace razius' that would make this pack encompass the full game once again and people will not have to download razius' pack and mix and match.  At the moment, if you want the map, Mario, and Fludd textures I encourage you to take the time to add them manually.  In the text file "qashto_recommended_textures.txt", I've written down the names of the textures I recommend that you add from razius' pack.
+Attention content creators, I will give front page credit (^ above) on this GitHub project to anyone that wants to contribute additions or edits to this pack.  Instead of getting lost in the forums your content will be included with the latest version of this pack as a single download.
 
 <h3>-About the pack-</h3>
 
