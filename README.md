@@ -7,9 +7,17 @@ qashto = 855
 
 [Click here to see comparisons!](../../wiki)
 
+
+-Work In Progress Textures-
+
+title : If someone could send me a link to a high resolution image of the North American title art that would awesome. I haven't been able to find it. I know Nintendo artists had to of drawn the title at a high resolution because it is printed very large on the player's guides of this game. If anyone could take a high quality photo or scan of the official Nintentdo or Prima player's guide that would be better than the current upscale of the in-game title.
+life health gui : I will retexture all the shadows and smooth all the edges of the sun rays from the waifu upscales currently included in the pack
+tree shadows : some of the original tree shadows create a white box around the trees, does anyone know how to fix this?
+grass : might try to do some retexturing keeping the original noise style
+
 <h3>-About the pack-</h3>
 
-The most popular high-res texture pack on the Dolphin forums right now is <a href="https://forums.dolphin-emu.org/Thread-super-mario-sunshine-hires-texture-pack">razius</a>'.  Unfortunately, even with a few new additions, after four years it only contains textures for the HUD, menus, trees, tile flooring (not even walls or roofs) of Delfino Plaza, some shadows, and all the trees.  Only one goo texture is included.  Although he says he's tried to "keep everything as close to the original as possible", most of the pack doesn't even come close to respecting the simplistic style of the original game.  The SMG style grass and Skyrim-esque tree textures are the worst offenders.  These textures fail to fit in with the rest of the game and stick out as obvious mods, preventing first time players from enjoying the original aesthetics of the game.  Some textures, most notably the location textures, even ignore the original gradients and/or coloring of the original textures.
+The most popular high-res texture pack on the Dolphin forums right now is <a href="https://forums.dolphin-emu.org/Thread-super-mario-sunshine-uhd-texture-pack?pid=431952#pid431952">razius</a>'.  Unfortunately, even with a few new additions, after four years it only contains textures for the HUD, menus, trees, tile flooring (not even walls or roofs) of Delfino Plaza, some shadows, and all the trees.  Only one goo texture is included.  Although he says he's tried to "keep everything as close to the original as possible", most of the pack doesn't even come close to respecting the simplistic style of the original game.  The SMG style grass and Skyrim-esque tree textures are the worst offenders.  These textures fail to fit in with the rest of the game and stick out as obvious mods, preventing first time players from enjoying the original aesthetics of the game.  Some textures, most notably the location textures, even ignore the original gradients and/or coloring of the original textures.
 
 In spite of my disappointment with most of the pack, I was inspired by the pink goo texture.  The pink goo texture looked so good that I decided to upscale all the other goo textures and soon I was motivated to create a definitive UHD texture pack for the whole game.
 
