@@ -10,9 +10,9 @@ qashto = 855
 
 -Work In Progress Textures-
 
-title : If someone could send me a link to a high resolution image of the North American title art that would awesome. I haven't been able to find it. I know Nintendo artists had to of drawn the title at a high resolution because it is printed very large on the player's guides of this game. If anyone could take a high quality photo or scan of the official Nintentdo or Prima player's guide that would be better than the current upscale of the in-game title.
-life health gui : I will retexture all the shadows and smooth all the edges of the sun rays from the waifu upscales currently included in the pack
-tree shadows : some of the original tree shadows create a white box around the trees, does anyone know how to fix this?
+title : If someone could send me a link to a high resolution image of the North American title art that would awesome. I haven't been able to find it. I know Nintendo artists had to of drawn the title at a high resolution because it is printed very large on the player's guides of this game. If anyone could take a high quality photo or scan of the official Nintentdo or Prima player's guide that would be better than the current upscale of the in-game title.<br>
+life health gui : I will retexture all the shadows and smooth all the edges of the sun rays from the waifu upscales currently included in the pack<br>
+tree shadows : some of the original tree shadows create a white box around the trees, does anyone know how to fix this?<br>
 grass : might try to do some retexturing keeping the original noise style
 
 <h3>-About the pack-</h3>
