@@ -28,6 +28,6 @@ I've been using <a href="https://github.com/nagadomi/waifu2x">waifu2x</a>, a fre
 
 Make sure to check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings on the 5.0 build of Dolphin, this will cache the custom textures to RAM when Dolphin loads the game. This will prevent all stuttering caused by using custom textures. This texture pack should only load less than 2 GB to RAM (without the goo maps) which shouldn't be a problem for computers capable of playing the game at UHD smoothly anyway.
 
-I will upload UHD video footage to Youtube soon and will also release this pack in DDS format.
+I will upload UHD video footage to Youtube soon.
 
 Enjoy!
