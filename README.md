@@ -26,6 +26,29 @@ I've been using <a href="https://github.com/nagadomi/waifu2x">waifu2x</a>, a fre
 
 Make sure to check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings on the 5.0 build of Dolphin, this will cache the custom textures to RAM when Dolphin loads the game. This will prevent all stuttering caused by using custom textures. This texture pack should only load less than 2 GB to RAM (without the goo maps) which shouldn't be a problem for computers capable of playing the game at UHD smoothly anyway.
 
-I will upload UHD video footage to Youtube late January/early February.
+Use these Gecko codes:
+$60FPS (Region-Free)
+F6000002 80008180
+BF800000 3F000000
+00000000 43300000
+14000004 3F800000
+E0000000 80008000
+F6000002 80008180
+801E0074 901E0038
+801E007C 901E0078
+14000014 60000000
+E0000000 80008000
+F6000001 80008180
+40800034 C03F00D0
+D2000004 00000002
+3DC03F80 91DF00D0
+C03F00D0 00000000
+E0000000 80008000
+$16:9 Aspect Ratio (Widescreen) [NTSC-U]
+04416B74 3F9A7643
+$Remove Heatwave Effect Code NTSC-U:
+0419F83C 4E800020
+
+I will upload UHD video footage to Youtube sometime in February.
 
 Enjoy!
