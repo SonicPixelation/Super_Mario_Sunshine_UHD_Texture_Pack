@@ -13,6 +13,7 @@ qashto = 1,937
 
 title : If someone could send me a link to a high resolution image of the North American title art that would awesome. I haven't been able to find it. I know Nintendo artists had to of drawn the title at a high resolution because it is printed very large on the player's guides of this game. If anyone could take a high quality photo or scan of the official Nintentdo or Prima player's guide that would be better than the current upscale of the in-game title. <br>
 tree shadows : some of the original tree shadows create a white box around the trees, does anyone know how to fix this?<br>
+save block: Does anyone have a 100% save they could share?<br>
 
 <h3>-About the pack-</h3>
 
