@@ -4,16 +4,16 @@
 
 <h3> 1,937 textures contributed to this pack in total</h3>
 Contribution breakdown:<br>
-qashto = 1,937 
+qashto = 1,935 
+Filipianosol = 2
 
 [Click here to see comparisons!](../../wiki)
 
 
 <h3>-Community Requests-</h3>
 
-title : If someone could send me a link to a high resolution image of the North American title art that would awesome. I haven't been able to find it. I know Nintendo artists had to of drawn the title at a high resolution because it is printed very large on the player's guides of this game. If anyone could take a high quality photo or scan of the official Nintentdo or Prima player's guide that would be better than the current upscale of the in-game title. <br>
+title : If you're a photoshop wizard that can somehow change the scanned high-res North American title art's colors to more accurately match the original in-game title art your sorcery would be appreciated.  I know it's possible it's just way outside my wheelhouse.<br>
 tree shadows : some of the original tree shadows create a white box around the trees, does anyone know how to fix this?<br>
-save block: Does anyone have a 100% save they could share?<br>
 
 <h3>-About the pack-</h3>
 
