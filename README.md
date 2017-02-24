@@ -27,7 +27,7 @@ I've been using <a href="https://github.com/nagadomi/waifu2x">waifu2x</a>, a fre
 
 Make sure to check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings on the 5.0 build of Dolphin, this will cache the custom textures to RAM when Dolphin loads the game. This will prevent all stuttering caused by using custom textures. This texture pack should only load less than 2 GB to RAM (without the goo maps) which shouldn't be a problem for computers capable of playing the game at UHD smoothly anyway.
 
-Gecko codes that I use:<br>
+Look at the <a href="https://wiki.dolphin-emu.org/index.php?title=Super_Mario_Sunshine">Dolphin wiki page for Super Mario Sunshine</a> and follow the graphics settings configurations.  One deviation I make from that configuration is to enable Scaled EFB Copy because it makes bodies of water look way better.  I also highly recommend using V-Sync to avoid tearing.  I do not use the widescreen code on the wiki because it causes problems for me, although I've heard it works fine for others.  These are the only Gecko codes that I use:<br>
 $60FPS (Region-Free)
 F6000002 80008180
 BF800000 3F000000
