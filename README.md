@@ -12,7 +12,7 @@ Filipianosol = 2
 
 <h3>-Community Requests-</h3>
 
-title : If you're a photoshop wizard that can somehow change the scanned high-res North American title art's colors to more accurately match the original in-game title art your sorcery would be appreciated.  I know it's possible it's just way outside my wheelhouse.<br>
+title : If you're a photoshop wizard that can somehow change the scanned high-res North American title art's colors to more accurately match the original in-game title art your sorcery would be appreciated.  I know it's possible it's just way outside my wheelhouse. (will publish the new title tonight)<br>
 tree shadows : some of the original tree shadows create a white box around the trees, does anyone know how to fix this?<br>
 
 <h3>-About the pack-</h3>
