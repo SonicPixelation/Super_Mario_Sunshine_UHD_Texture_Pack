@@ -25,7 +25,7 @@ In spite of my disappointment with most of the pack, I was inspired by the pink 
 
 I've been using <a href="https://github.com/nagadomi/waifu2x">waifu2x</a>, a free, web-based upscaler that uses deep convolutional neural networks, and I've gotten some incredible results out of it.  I manually ran each texture through waifu2x, and inspected them, testing settings to see what looked best.  I used Bighead's Custom Texture Powershell script to make the goo and other seamless textures, big thanks to him!  A few original textures are too low-res for waifu2x to make good upscales with.  Using Gimp, I upscaled textures and manually smoothed out the edges of pollution maps, low-res banners, letters, text, and small character maps.  I also manually retextured certain textures that I felt required more than just upscaling to be acceptable in a UHD pack.  Most notably the main menu A, B, and C save blocks were retextured.  For the wanted poster, I edited a screenshot from an in-game cutscene that shows the poster at a higher resolution.
 
-<h3>I hope that you, the player, will feel like you're not even using a texture mod pack, yet have a superior graphical experience.</h3>
+<h3>-Recommended Settings-</h3>
 
 Make sure to check "Prefetch Custom Textures" in the "Advanced" tab of the Graphics settings on the 5.0 build of Dolphin, this will cache the custom textures to RAM when Dolphin loads the game. This will prevent all stuttering caused by using custom textures. This texture pack should only load less than 2 GB to RAM (without the goo maps) which shouldn't be a problem for computers capable of playing the game at UHD smoothly anyway.
 
