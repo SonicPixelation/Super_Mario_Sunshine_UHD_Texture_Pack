@@ -12,7 +12,7 @@ Filipianosol = 2
 
 <h3>-Community Requests-</h3>
 
-title : If you're a photoshop wizard that can somehow change the scanned high-res North American title art's colors to more accurately match the original in-game title art your sorcery would be appreciated.  I know it's possible it's just way outside my wheelhouse.<br>
+title : If you're a photoshop wizard that can somehow change the <a href="https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/blob/master/png/GMS/gui/title/tex1_460x304_2be218765ba946e5_5.png">scanned high-res North American title art</a>'s colors to more accurately match the original in-game title art your sorcery would be appreciated.  I know it's possible it's just way outside my wheelhouse.<br>
 tree shadows : some of the original tree shadows create a white box around the trees, does anyone know how to fix this?<br>
 
 <h3>-About the pack-</h3>
