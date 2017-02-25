@@ -15,7 +15,7 @@ Filipianosol = 2
 title : If you're a photoshop wizard that can somehow change the <a href="https://github.com/quinton-ashley/Super_Mario_Sunshine_UHD_Texture_Pack/blob/master/png/GMS/gui/title/tex1_460x304_2be218765ba946e5_5.png">scanned high-res North American title art</a>'s colors to more accurately match the original in-game title art your sorcery would be appreciated.  I know it's possible it's just way outside my wheelhouse.<br>
 tree shadows : Some of the original tree shadows create a white box around the trees, does anyone know how to fix this?<br>
 miscellaneous fixes/improvements : If you think certain textures look bad and want to fix/improve any of the textures I've already made, post your edits on the forum and I can add them to the github.<br>
-cutscenes:  This isn't a request for this pack more of an insane proposal I just want to throw out there, but if anyone is crazy enough to do frame by frame recreations of any of the cutscenes that would be nuts.  You would have my full permission to use my textures for such a project!<br>
+cutscenes :  This isn't a request for this pack more of an insane proposal I just want to throw out there, but if anyone is crazy enough to do frame by frame recreations of any of the cutscenes that would be nuts.  You would have my full permission to use my textures for such a project!<br>
 
 <h3>-About the pack-</h3>
 
