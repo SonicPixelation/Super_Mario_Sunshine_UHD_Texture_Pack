@@ -52,6 +52,4 @@ $16:9 Aspect Ratio (Widescreen) [NTSC-U]
 $Remove Heatwave Effect Code NTSC-U:
 0419F83C 4E800020
 
-I will upload UHD video footage to Youtube sometime in February.
-
 Enjoy!
